@@ -74,15 +74,15 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google-scholar"
       url: "https://scholar.google.com/citations?user=npK-sHsAAAAJ&hl=en&oi=ao"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/anaspinho"
     - label: "ORCID"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0001-5114-589X"
     - label: "LinkedIn"
       icon: "fab fa-brands fa-linkedin-in"
       url: "www.linkedin.com/in/ana-da-silva-pinho-574545353"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/anaspinho"
  
  
 
