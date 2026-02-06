@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-About
+**About**
 
 I am a postdoctoral researcher at the [Connected Minds Lab](https://connectedmindslab.net/) in the [Department of Developmental Psychology at the University of Amsterdam](https://psyres.uva.nl/content/research-groups/programme-group-developmental-psychology/programme-group-developmental-psychology.html).
 
