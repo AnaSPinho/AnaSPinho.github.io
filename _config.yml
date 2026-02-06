@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ana da Silva Pinho"
   avatar : "/assets/images/image_ana.png"
-  bio    : "Postdoctoral researcher in Psychology"
+  bio    : "Postdoctoral researcher in Psychology, University of Amsterdam"
   links:
    # - label: "Website"
      # icon: "fas fa-fw fa-link"
@@ -87,16 +87,16 @@ author:
  
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+ # links:
+  #  - label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+     # url: "https://twitter.com/"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/"
+   # - label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/"
 
 defaults:
   # _posts
