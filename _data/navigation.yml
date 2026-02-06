@@ -3,9 +3,9 @@ main:
     url: /publications/
   - title: "Research"
     url: /research/
-  - title: "Art-science"
-    url: /art-science/
   - title: "CV"
     url: /cv/
+  - title: "Art-science"
+    url: /art-science/
   - title: "Contact"
     url: /contact/
