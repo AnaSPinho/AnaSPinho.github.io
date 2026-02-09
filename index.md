@@ -18,6 +18,6 @@ I earned my PhD in Psychology at the University of Amsterdam, where I studied so
 
 Before my PhD, I worked as a data analyst in a social media agency, specializing in statistical modeling and machine learning. I also hold MSc degrees in Child Development (major: Developmental Psychopathology, University of Amsterdam) and in Educational Sciences (University of Porto).
 
-I am committed to open science: my [publications](), data, and code are openly available on OSF and GitHub.
+I am committed to open science: my [publications](https://anaspinho.github.io/publications/), data, and code are openly available on OSF and GitHub.
 
 Beyond my academic work, I often collaborate with community members and professionals across fields to develop and organize community-based science and art events that integrate research, science, and art. I have co-developed projects such as [<em>Life from a Different Perspective</em>, Hear All Voices, Treehouse NDSM](), [<em>Breaking Boundaries</em>, Op de Vlucht, NDSM FUSE](), with a focus on community-building, awareness, and public engagement.
