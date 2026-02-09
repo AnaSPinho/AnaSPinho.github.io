@@ -23,7 +23,7 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 - Breaking boundaries at minute 7:02 and in [Het Parool](https://osf.io/b9d6t/files/gh9dy) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ry2OUpIi2OU?si=G_Zb5MtRK4XCEE-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-![](images/dream.jpeg){width=48%} ![](images/military.jpeg){width=48%} ![](images/memory.jpeg){width=48%} ![](images/clown.jpeg){width=48%}
+[]
 
 
 #### Life from a different perspective (2023) 
@@ -53,5 +53,5 @@ Image submitted to Art of Neuroscience an initiative of the Royal Netherlands Ac
 
 In collabroation with developmental neurobiologist Özge Düdükcü. 
 
-<iframe src="https://drive.google.com/file/d/1J9nTkgY2DBgk51JHASBdAtge22q93tTj/view" width="400" height="200"></iframe>
+[]
 
