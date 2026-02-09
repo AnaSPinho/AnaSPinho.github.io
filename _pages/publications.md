@@ -4,12 +4,14 @@ title: "Publications"
 ---
 
 #### Working papers
+-----
 
 da Silva Pinho, A., Molleman, L., van den Bos, W. (2026). Learning about the world: the influence of online social information on adolescents’ opinions.
 
 Céspedes Izquierdo, V., da Silva Pinho, A., & van den Bos, W. (2025). Formalising the relationship between rewards and mood in social media. [[preregistration](https://osf.io/k2gv3/)]
 
 #### Peer-reviewed papers
+-----
 
 da Silva Pinho, A., Molleman, L., Braams, B.R., & van den Bos, W. (2024). Pathways from Norms to Intentions: a Developmental Perspective. Collabra: Psychology, 11 (1): 150354. [[preregistration study 1](https://osf.io/utca2/)] [[preregistration study 2](https://osf.io/6tkdf/)] [[paper](https://doi.org/10.1525/collabra.150354)] [[data & code](https://osf.io/bjfx6/)]
 
@@ -24,6 +26,7 @@ de Witte, M., da Silva Pinho, A., Stams, G.-J., Moonen, X., Bos, A. E. R., & van
 da Silva Pinho, A., Molleman, L., Braams, B. R., & van den Bos, W. (2021). Majority and popularity effects on norm formation in adolescence. Scientific Reports, 11(1), Article 12884. [[preregistration](https://osf.io/cx2u6)] [[paper](https://doi.org/10.1038/s41598-021-92482-8)] [[data & code](https://github.com/AnaSPinho/norm_formation_in_adolescence)]
 
 #### Preprints / submissions
+-----
 
 Rathje, S., Asimovic, N., Ventura, T., Mughal, S., Karsting, H., Robertson, C. E., Barrie, C., The Global Social Media Experiment Team*, Tucker, J. A., & Van Bavel, J. J. (2025). Testing the causal impact of social media reduction around the globe. Nature (Registered Report, Stage 1 In-Principle Acceptance). * _I am leading the team of scholars in the Netherlands_
 
@@ -32,10 +35,12 @@ Slagter, S., da Silva Pinho, A., van Duijvenvoorde, A., & van den Bos, W. (under
 Doell, K. C., Lengersdorff, L., Rhoads, S. A., Todorova, B., Nitschke, J. P., Druckman, J., Vlascenau, M., Many Labs Climate Consortium*, Lamm, C. & Van Bavel, J. J. (2025, preprint). When Predicting Climate-Relevant Intervention Effectiveness, Academics Outperform the Public, but Not a Simple Heuristic. [[Preprint](https://doi.org/10.31234/osf.io/fzv6g_v1)] * _I am part of the consortium contributing behavioral experiment data_
 
 #### PhD thesis
+-----
 
 da Silva Pinho, A. (2025). The social network effect: Norms and feedback in adolescence. University of Amsterdam. [[PhD thesis](https://dare.uva.nl/search?identifier=55169e8a-ded3-4d41-beed-8398a345f856)]
 
 #### Other
+-----
 
 Céspedes, V., & da Silva Pinho, A. (2025). This is not a feed (Software).[[repository](https://osf.io/6f92w/)]
 
