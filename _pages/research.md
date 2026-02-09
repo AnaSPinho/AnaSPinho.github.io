@@ -6,6 +6,7 @@ title: "Research"
 ### Current projects
 
 #### Understanding youth social media engagement
+-----
 
 -  _Sensitivity to social media feedback_ 
 
@@ -17,12 +18,15 @@ Today’s youth increasingly turn to social media not only for entertainment but
 
 
 #### Not straightforward 
+-----
+
 - _The benefits and harms of social media use among LGBTQIA+ youth_
 
 Digital platforms sit at the heart of many young people’s social lives: shaping peer connection, identity exploration, and how they learn about the world. 
 For LGBTQIA+ youth in particular, online spaces can offer community, information, and affirmation. At the same time, they can intensify minority stress through discrimination, harassment, and exposure to harmful content.Most theories of adolescent social media use emphasize normative developmental tasks such as autonomy seeking, peer validation, and identity exploration, but they often overlook the distinct realities and experiences of queer youth. This raises a central question: do digital environments function as protective spaces that support identity development, belonging, and well-being and/or do they amplify minority stress among queer youth? This project develops (1) a conceptual framework and testable model to explain how social media shapes identity-related learning and development among LGBTQIA+ youth, and how these processes relate to mental health; and (2) a mixed-methods design that integrates computational approaches, digital trace data, survey data, and qualitative accounts. We examine how different patterns and contexts of online engagement relate to identity exploration, belonging and mental health outcomes. This research aims to inform evidence-based interventions, platform design, and policy to ensure that digital environments foster empowerment and inclusion for LGBTQIA+ youth.
 
 #### Global social media experiement
+-----
 
 Social media is used by billions of people worldwide, but much of the strongest evidence about its psychological and political effects still comes from US- and UK-based samples. Recent evidence indicates that these effects vary across cultural contexts, highlighting the need for large-scale causal evidence on outcomes such as polarization, intergroup attitudes, trust, and well-being. I contribute to a [multi-country field experiment](https://globalsocialmediastudy.com/) conducted in 23 countries (projected N > 8,000) that tests the impact of reducing social media use. Participants are encouraged to reduce their screen time for two weeks, after which we assess changes in news knowledge, exposure to online hostility, intergroup attitudes, well-being, and related factors such as political participation and susceptibility to misinformation. We also evaluate whether effects vary as a function of country-level characteristics (e.g., inequality, income, democratic institutions) and individual differences. Within the Netherlands team, I serve as team leader. This collaboration brings together 20 scholars from Dutch and Belgian institutions, including the University of Groningen, University of Amsterdam, Vrije Universiteit Amsterdam, Erasmus University Rotterdam, Leiden University, Nyenrode Business University, Amsterdam UMC, Vrije Universiteit Brussel, and Ghent University.
 
