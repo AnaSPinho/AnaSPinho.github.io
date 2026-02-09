@@ -21,7 +21,10 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 [repository of the project](https://osf.io/b9d6t/overview)
 
 - Breaking boundaries at minute 7:02 and in [Het Parool](https://osf.io/b9d6t/files/gh9dy) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ry2OUpIi2OU?si=G_Zb5MtRK4XCEE-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ry2OUpIi2OU?si=G_Zb5MtRK4XCEE-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+![](images/dream.jpeg){width=48%} ![](images/military.jpeg){width=48%} ![](images/memory.jpeg){width=48%} ![](images/clown.jpeg){width=48%}
+
 
 #### Life from a different perspective (2023) 
 ------
@@ -39,4 +42,16 @@ address these needs. Viewers were invited to decide which greenhouse should rece
 
 Project developed in collabroation with visual artist and  art educator [Marcela Perrusquía](https://marcelaperrusquia.com/blogs/news/about).
 
---> depiction of installation insert photos
+- _Depiction of the installation_
+
+
+
+#### 3DISCO: 3D imaging of solvent-cleared organs (2019) 
+----
+
+Image submitted to Art of Neuroscience an initiative of the Royal Netherlands Academy of Arts and Sciences (KNAW), which was selected for presentation at the ECNP Congress 2019 (7–10 September 2019), Copenhagen, Denmark. The selected artworks were displayed on screen in a dedicated congress space and featured as part of the session “The beauty of the brain: a journey in pictures,” which included a discussion on the intersection of neuroscience, imagery, and public engagement.
+
+In collabroation with developmental neurobiologist Özge Düdükcü. 
+
+<iframe src="https://drive.google.com/file/d/1J9nTkgY2DBgk51JHASBdAtge22q93tTj/view" width="400" height="200"></iframe>
+
