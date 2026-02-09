@@ -23,8 +23,12 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 - Breaking boundaries at minute 7:02 and in [Het Parool](https://osf.io/b9d6t/files/gh9dy) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ry2OUpIi2OU?si=G_Zb5MtRK4XCEE-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-[]
-
+<div style="display:flex; flex-wrap:wrap; gap:15px; margin-top:20px;">
+  <img src="{{ site.baseurl }}/images/dream.jpeg" alt="Dream" style="width:48%; height:auto;">
+  <img src="{{ site.baseurl }}/images/military.jpeg" alt="Military" style="width:48%; height:auto;">
+  <img src="{{ site.baseurl }}/images/memory.jpeg" alt="Memory" style="width:48%; height:auto;">
+  <img src="{{ site.baseurl }}/images/clown.jpeg" alt="Clown" style="width:48%; height:auto;">
+</div>
 
 #### Life from a different perspective (2023) 
 ------
