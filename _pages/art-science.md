@@ -23,11 +23,15 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 - Breaking boundaries at minute 7:02 and in [Het Parool](https://osf.io/b9d6t/files/gh9dy) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ry2OUpIi2OU?si=G_Zb5MtRK4XCEE-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-
-<div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/dreams.jpg" width="150"/>
+<div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/dream.jpeg" width="150"/>
+</div>
+<div style="clear: both;"></div> <div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/military.jpeg" width="150"/>
+</div>
+<div style="clear: both;"></div><div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/memory.jpeg" width="150"/>
+</div>
+<div style="clear: both;"></div><div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/clown.jpeg" width="150"/>
 </div>
 <div style="clear: both;"></div>
-
 
 
 #### Life from a different perspective (2023) 
