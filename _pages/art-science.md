@@ -24,6 +24,12 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ry2OUpIi2OU?si=G_Zb5MtRK4XCEE-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 
+<div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/dreams.jpg" width="150"/>
+</div>
+<div style="clear: both;"></div>
+
+
+
 #### Life from a different perspective (2023) 
 ------
 
