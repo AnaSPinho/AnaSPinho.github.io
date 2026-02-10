@@ -14,7 +14,9 @@ I am deeply interested in art and regularly collaborate with professionals acros
 Border walls symbolize a world where refugees are unwelcome. As people seek safety in a new land, they often encounter barbed wire and severe hostility, reflecting the adverse attitudes towards them across the globe. 
 Inspired by the interactive murals at the Tijuana-San Diego border wall, Breaking Boundaries presents a stark contrast between both sides of a border wall. On one side lies the homeland, where memories coexist with the violence of escaping. On the other side stands the new land offering safety, yet shadowed by discrimination.  Breaking Boundaries seeks to evoke the experience of a new beginning, where unity and empathy transcends the barriers of the border-walled world today.
 
-Project developed in collabroation with visual artist and art educator [Marcela Perrusquía](https://marcelaperrusquia.com/blogs/news/about) and photographer and project manager Arts & Culture, City of Amsterdam [Benny van der Plank](https://bennyvanderplank.com/about-1).
+Project developed in collaboration with visual artist and art educator [Marcela Perrusquía](https://marcelaperrusquia.com/blogs/news/about) and photographer and project manager Arts & Culture, City of Amsterdam [Benny van der Plank](https://bennyvanderplank.com/about-1).
+
+- My contribution: from conceptualization to exhibition
 
 Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 
@@ -23,15 +25,28 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 - Breaking boundaries at minute 7:02 and in [Het Parool](https://osf.io/b9d6t/files/gh9dy) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ry2OUpIi2OU?si=G_Zb5MtRK4XCEE-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-<div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/dream.jpeg" width="150"/>
+<div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
+  <div style="width:170px; height:170px; overflow:hidden; flex:0 0 auto;">
+    <img src="../assets/images/dream.jpeg" alt="dream"
+         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
+  </div>
+
+  <div style="width:170px; height:170px; overflow:hidden; flex:0 0 auto;">
+    <img src="../assets/images/military.jpeg" alt="military"
+         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
+  </div>
+
+  <div style="width:170px; height:170px; overflow:hidden; flex:0 0 auto;">
+    <img src="../assets/images/memory.jpeg" alt="memory"
+         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
+  </div>
+
+  <div style="width:170px; height:170px; overflow:hidden; flex:0 0 auto;">
+    <img src="../assets/images/clown.jpeg" alt="clown"
+         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
+  </div>
 </div>
-<div style="clear: both;"></div> <div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/military.jpeg" width="150"/>
-</div>
-<div style="clear: both;"></div><div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/memory.jpeg" width="150"/>
-</div>
-<div style="clear: both;"></div><div style="width:170px; height:170px; overflow:hidden; float:left; margin-right:2em;"> <img style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" src="../assets/images/clown.jpeg" width="150"/>
-</div>
-<div style="clear: both;"></div>
+
 
 
 #### Life from a different perspective (2023) 
@@ -50,8 +65,21 @@ address these needs. Viewers were invited to decide which greenhouse should rece
 
 Project developed in collabroation with visual artist and  art educator [Marcela Perrusquía](https://marcelaperrusquia.com/blogs/news/about).
 
+- My contribution: from conceptualization to exhibition
+
 - _Depiction of the installation_
 
+<div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
+  <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
+    <img src="../assets/images/part1.png" alt="part 1"
+         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
+  </div>
+
+  <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
+    <img src="../assets/images/part2.png" alt="part 2"
+         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
+  </div>
+</div>
 
 
 #### 3DISCO: 3D imaging of solvent-cleared organs (2019) 
@@ -61,5 +89,12 @@ Image submitted to Art of Neuroscience an initiative of the Royal Netherlands Ac
 
 In collabroation with developmental neurobiologist Özge Düdükcü. 
 
-[]
+- My contribution: digital post-processing and editing
+
+<iframe
+  src="/assets/pdfs/assets/images/pdfs/3disco.pdf"
+  width="100%"
+  height="700"
+  style="border:0;"
+></iframe>
 
