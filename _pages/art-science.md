@@ -91,7 +91,7 @@ In collabroation with developmental neurobiologist Özge Düdükcü.
 
 - My contribution: digital post-processing and editing
 
-<a href="/assets/pdfs/assets/images/3disco.pdf" target="_blank" rel="noopener">
+<a href="/assets/images/3disco.pdf" target="_blank" rel="noopener">
   Open the PDF to see the artwork
 </a>
 
