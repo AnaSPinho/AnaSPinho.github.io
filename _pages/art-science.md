@@ -22,8 +22,6 @@ The [HerArt workshop series](https://marcelaperrusquia.com/pages/workshops-herar
 [repository](https://osf.io/b9d6t/files/osfstorage)
 
 <br>
-</br>
-
 <div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
   <div style="width:170px; height:170px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/paletet.jpg" alt="paletet"
@@ -39,6 +37,7 @@ The [HerArt workshop series](https://marcelaperrusquia.com/pages/workshops-herar
     <img src="../assets/images/room.jpg" alt="room"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
+</div>
 
 #### Breaking boundaries (2023-2024) 
 ------
