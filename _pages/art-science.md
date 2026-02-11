@@ -22,17 +22,17 @@ The [HerArt workshop series](https://marcelaperrusquia.com/pages/workshops-herar
 [repository](https://osf.io/b9d6t/files/osfstorage)
 
 <div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+ <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/paletet.jpg" alt="paletet"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
   
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+ <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/frida.jpg" alt="frida"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
 
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+ <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/room.jpg" alt="room"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
@@ -59,22 +59,22 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 <br>
 
 <div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+ <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/dream.jpeg" alt="dream"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
 
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+ <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/military.jpeg" alt="military"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
 
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+  <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/memory.jpeg" alt="memory"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
-
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+  
+<div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/clown.jpeg" alt="clown"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
@@ -101,13 +101,13 @@ Project developed in collabroation with visual artist and art educator [Marcela 
 - _Depiction of the installation_
 
 <div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
+<div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/part1.png" alt="part 1"
          style="width:150%; height:150%; object-fit:cover; object-position:20% 20%;" />
   </div>
 
-  <div style="width:clamp(170px, 20vw, 260px); height:clamp(170px, 20vw, 260px); overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/part2.png" alt="part 2"
+<div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
+  <img src="../assets/images/part2.png" alt="part 2"
          style="width:150%; height:150%; object-fit:cover; object-position:20% 20%;" />
   </div>
 </div>
