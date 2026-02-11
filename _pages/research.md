@@ -16,7 +16,7 @@ Infinite, algorithmically curated feeds have become a defining feature of social
     <img src="../assets/images/rlmodel.png" alt="model"
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
-<div style="width:1000px; height:500px; overflow:hidden; flex:0 0 auto; background:#333333;">
+<div style="width:1000px; height:500px; overflow:hidden; flex:0 0 auto; background:#fff;">
     <img src="../assets/images/rewardExp.png" alt="exp"
          style="width:100%; height:100%; object-fit:contain; object-position:center;" />
  </div>
@@ -26,7 +26,7 @@ Infinite, algorithmically curated feeds have become a defining feature of social
   
 Today’s youth increasingly turn to social media not only for entertainment but also as a main source of information about global events. While information-seeking is a major motivation, little is known about how young people process what they encounter online. A major challenge is the complexity of digital content: information circulates from diverse sources of varying credibility, often presented with differing intensity and affect. Social media information, such as comments may guide interpretation of the world whether through positive support, critical opposition, or highly emotional responses. Moderate comments may encourage more reflective thinking. These signals may shape how youth evaluate information, influencing both their understanding and their belief about the world. This study investigates how peer feedback in the form of comments with varying levels of agreement and sentiment affects information processing and opinion formation in youth. We conduct controlled experiments that mimic key features of social media posts and integrate real-world peer comment data to examine their effects on opinion change.  To characterize the emotional tone of comments, we use NLP and compare multiple language models (e.g., BERT and different GPT-based models).
 
-<div style="width:800px; height:400px; overflow:hidden; flex:0 0 auto; background:#333333;">
+<div style="width:800px; height:400px; overflow:hidden; flex:0 0 auto; background:none;">
     <img src="../assets/images/comments.png" alt="comments"
        style="width:100%; height:100%; object-fit:contain; object-position:center;" />
   </div>
@@ -39,7 +39,7 @@ Today’s youth increasingly turn to social media not only for entertainment but
 Digital platforms sit at the heart of many young people’s social lives: shaping peer connection, identity exploration, and how they learn about the world. 
 For LGBTQIA+ youth in particular, online spaces can offer community, information, and affirmation. At the same time, they can intensify minority stress through discrimination, harassment, and exposure to harmful content.Most theories of adolescent social media use emphasize normative developmental tasks such as autonomy seeking, peer validation, and identity exploration, but they often overlook the distinct realities and experiences of queer youth. This raises a central question: do digital environments function as protective spaces that support identity development, belonging, and well-being and/or do they amplify minority stress among queer youth? This project develops (1) a conceptual framework and testable model to explain how social media shapes identity-related learning and development among LGBTQIA+ youth, and how these processes relate to mental health; and (2) a mixed-methods design that integrates computational approaches, digital trace data, survey data, and qualitative accounts. We examine how different patterns and contexts of online engagement relate to identity exploration, belonging and mental health outcomes. This research aims to inform evidence-based interventions, platform design, and policy to ensure that digital environments foster empowerment and inclusion for LGBTQIA+ youth.
 
-<div style="width:800px; height:400px; overflow:hidden; flex:0 0 auto; background:#333333;">
+<div style="width:800px; height:400px; overflow:hidden; flex:0 0 auto; background:none;">
     <img src="../assets/images/notStraightforward.png" alt="not"
           style="width:100%; height:100%; object-fit:contain; object-position:center;" />
   </div>
