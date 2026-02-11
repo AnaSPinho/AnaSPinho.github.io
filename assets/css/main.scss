@@ -2,5 +2,40 @@
 ---
 
 @charset "utf-8";
-@import "minimal-mistakes";
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* -----------------------------
+   Typography hierarchy
+   ----------------------------- */
+
+/* Base body text everywhere */
+html {
+  font-size: 12px;
+
+  @include breakpoint($medium) { font-size: 12px; }
+  @include breakpoint($large)  { font-size: 12px; }
+  @include breakpoint($x-large){ font-size: 12px; }
+}
+
+/* Main page reading text (content column) slightly bigger */
+.page__content {
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+/* Sidebar intro (bio) + location + links smaller than body */
+.author__bio,
+.author__meta,
+.author__content,
+.author__urls-wrapper,
+.author__urls {
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+/* Keep your name readable */
+.author__name {
+  font-size: 12px;
+}
