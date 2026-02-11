@@ -43,7 +43,7 @@ For LGBTQIA+ youth in particular, online spaces can offer community, information
          style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
   </div>
 
-#### Global social media experiement
+#### Global social media experiment: team Netherlands
 -----
 
 Social media is used by billions of people worldwide, but much of the strongest evidence about its psychological and political effects still comes from US- and UK-based samples. Recent evidence indicates that these effects vary across cultural contexts, highlighting the need for large-scale causal evidence on outcomes such as polarization, intergroup attitudes, trust, and well-being. I contribute to a [multi-country field experiment](https://globalsocialmediastudy.com/) conducted in 23 countries (projected N > 8,000) that tests the impact of reducing social media use. Participants are encouraged to reduce their screen time for two weeks, after which we assess changes in news knowledge, exposure to online hostility, intergroup attitudes, well-being, and related factors such as political participation and susceptibility to misinformation. We also evaluate whether effects vary as a function of country-level characteristics (e.g., inequality, income, democratic institutions) and individual differences. Within the Netherlands team, I serve as team leader. This collaboration brings together 20 scholars from Dutch and Belgian institutions, including the University of Groningen, University of Amsterdam, Vrije Universiteit Amsterdam, Erasmus University Rotterdam, Leiden University, Nyenrode Business University, Amsterdam UMC, Vrije Universiteit Brussel, and Ghent University.
