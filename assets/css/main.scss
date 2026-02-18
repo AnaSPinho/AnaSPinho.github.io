@@ -22,16 +22,20 @@ html {
     }
 }
 
-/* Set your avatar size */
-.author__avatar img {
-  width: 160px;     
-  height: 160px;
+/* Avatar size */
+.author__avatar img,
+.author__avatar .author__avatar-img,
+.sidebar .author__avatar img {
+  width: 180px !important;
+  height: 180px !important;
+  max-width: none !important;
   border-radius: 50%;
   object-fit: cover;
 }
 
-/* If it’s still small on mobile, also override the wrapper */
-.author__avatar {
-  width: 160px;
-  height: 160px;
+/* Some layouts constrain the wrapper */
+.author__avatar,
+.sidebar .author__avatar {
+  width: 180px !important;
+  height: 180px !important;
 }
