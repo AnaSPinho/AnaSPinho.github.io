@@ -11,7 +11,7 @@ classes: wide
 
 I am a postdoctoral researcher at the [Connected Minds Lab](https://connectedmindslab.net/) in the [Department of Developmental Psychology at the University of Amsterdam](https://psyres.uva.nl/content/research-groups/programme-group-developmental-psychology/programme-group-developmental-psychology.html).
 
-My research investigates young people’s social media use and its links to mood and mental health. I also examine how online experiences shape identity development and the opportunities and challenges faced by minority groups. In addition to a developmental perspective, I am involved in a [ManyLabs collaboration](https://globalsocialmediastudy.com/), where I lead the Netherlands team to study how these dynamics vary across cultural contexts worldwide.
+My [research](https://anaspinho.github.io/research/) investigates young people’s social media use and its links to mood and mental health. I also examine how online experiences shape identity development and the opportunities and challenges faced by minority groups. In addition to a developmental perspective, I am involved in a [ManyLabs collaboration](https://globalsocialmediastudy.com/), where I lead the Netherlands team to study how these dynamics vary across cultural contexts worldwide.
 
 Methodologically, I combine computational modeling (e.g., reinforcement learning and large language models), machine learning approaches (e.g., random forests and NLP), social network analysis, and experimental designs. Across projects, I integrate longitudinal, real-world behavioral data (e.g., social media trace data), text data and self-report measures.
 
