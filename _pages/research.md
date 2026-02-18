@@ -35,11 +35,11 @@ Today’s youth increasingly turn to social media not only for entertainment but
          style="width:100%; height:auto; display:block;" />
   </div>
 
-  <div style="flex:1 1 480px; max-width:50%;">
-      <video controls autoplay muted loop playsinline
-        style="width:100%; height:auto; display:block;" />
-       <source src="../assets/images/comments_exp.mp4" type="video/mp4">
-   </video>
+ <div style="flex:1 1 480px; max-width:50%;">
+    <video controls autoplay muted loop playsinline
+           style="width:100%; max-height:400px; height:auto; display:block; object-fit:contain;">
+      <source src="../assets/images/comments_exp.mp4" type="video/mp4">
+    </video>
   </div>
   
   </div>
