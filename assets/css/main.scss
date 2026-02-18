@@ -21,3 +21,17 @@ html {
         font-size: 17px; // originally 22px
     }
 }
+
+/* Set your avatar size */
+.author__avatar img {
+  width: 160px;     
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* If it’s still small on mobile, also override the wrapper */
+.author__avatar {
+  width: 160px;
+  height: 160px;
+}
