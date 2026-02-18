@@ -29,27 +29,18 @@ Infinite, algorithmically curated feeds have become a defining feature of social
   
 Today’s youth increasingly turn to social media not only for entertainment but also as a main source of information about global events. While information-seeking is a major motivation, little is known about how young people process what they encounter online. A major challenge is the complexity of digital content: information circulates from diverse sources of varying credibility, often presented with differing intensity and affect. Social media information, such as comments may guide interpretation of the world whether through positive support, critical opposition, or highly emotional responses. Moderate comments may encourage more reflective thinking. These signals may shape how youth evaluate information, influencing both their understanding and their belief about the world. This study investigates how peer feedback in the form of comments with varying levels of agreement and sentiment affects information processing and opinion formation in youth. We conduct controlled experiments that mimic key features of social media posts and integrate real-world peer comment data to examine their effects on opinion change.  To characterize the emotional tone of comments, we use NLP and compare multiple language models (e.g., BERT and different GPT-based models).
 
-<div style="
-  display:flex;
-  gap:16px;
-  flex-wrap:wrap;
-  justify-content:flex-start;
-  align-items:flex-start;
-">
-
-  <div style="flex:1 1 420px; max-width:800px; aspect-ratio:2/1; overflow:hidden;">
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
+  <div style="flex:1 1 480px; max-width:50%;">
     <img src="../assets/images/comments.png" alt="comments"
-         style="width:100%; height:100%; object-fit:contain; display:block;" />
+         style="width:100%; height:auto; display:block;" />
   </div>
 
-  <div style="flex:1 1 420px; max-width:1000px; aspect-ratio:2/1; overflow:hidden; background:#000;">
-    <video controls autoplay muted loop playsinline
-           style="width:100%; height:100%; object-fit:contain; display:block;">
-      <source src="../assets/images/comments_exp.mp4" type="video/mp4">
-    </video>
+  <div style="flex:1 1 480px; max-width:50%;">
+      <video controls autoplay muted loop playsinline
+        style="width:100%; height:auto; display:block;" />
+       <source src="../assets/images/comments_exp.mp4" type="video/mp4">
+   </video>
   </div>
-
-</div>
 
 #### Not straightforward 
 -----
@@ -63,7 +54,6 @@ For LGBTQIA+ youth in particular, online spaces can offer community, information
     <img src="../assets/images/notStraightforward.png" alt="not"
           style="width:100%; height:auto; display:block;" />
   </div>
-
 
 #### Global social media experiment: team Netherlands
 -----
