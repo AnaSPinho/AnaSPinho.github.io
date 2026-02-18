@@ -14,12 +14,13 @@ Infinite, algorithmically curated feeds have become a defining feature of social
 
  <div style="width:1000px; height:500px; overflow:hidden; flex:0 0 auto;">
     <img src="../assets/images/rlmodel.png" alt="model"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
+           style="width:100%; height:auto; display:block;" />
   </div>
 <div style="width:1000px; height:500px; overflow:hidden; flex:0 0 auto; background:#fff;">
     <img src="../assets/images/rewardExp.png" alt="exp"
-         style="width:100%; height:100%; object-fit:contain; object-position:center;" />
+           style="width:100%; height:auto; display:block;" />
  </div>
+
 
 
 - **_Impact of social media information on opinion formation_**
@@ -28,7 +29,7 @@ Today’s youth increasingly turn to social media not only for entertainment but
 
 <div style="width:800px; height:400px; overflow:hidden; flex:0 0 auto; background:none;">
     <img src="../assets/images/comments.png" alt="comments"
-       style="width:100%; height:100%; object-fit:contain; object-position:center;" />
+         style="width:100%; height:auto; display:block;" />
   </div>
 
 #### Not straightforward 
@@ -41,7 +42,7 @@ For LGBTQIA+ youth in particular, online spaces can offer community, information
 
 <div style="width:800px; height:400px; overflow:hidden; flex:0 0 auto; background:none;">
     <img src="../assets/images/notStraightforward.png" alt="not"
-          style="width:100%; height:100%; object-fit:contain; object-position:center;" />
+          style="width:100%; height:auto; display:block;" />
   </div>
 
 
