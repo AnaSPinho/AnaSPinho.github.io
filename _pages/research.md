@@ -12,18 +12,16 @@ title: "Research"
 
 Infinite, algorithmically curated feeds have become a defining feature of social media, offering a continuous stream of content and frequent opportunities for social feedback (e.g., likes, comments, views). Because youth tend to show heightened reward sensitivity, these repeated feedback signals may powerfully shape what they attend to, how they feel, and how their engagement unfolds over time. At the same time, the emotional impact of social media depends on how youth engage: more active behaviors (e.g., liking content, posting, commenting) may be experienced differently than more passive behaviors (e.g., scrolling, browsing). Both forms of engagement may also interact with momentary mood and individual differences. This research examines how sensitivity to social feedback and patterns of engagement are linked to affective experiences and mental health. We use a multimethod approach combining behavioral experiments, social media trace data, and self-report measures to capture engagement and its psychological correlates across contexts and over time.
 
-<div style="display:flex; flex-direction:column; gap:16px; align-items:flex-start;">
-
-  <div style="width:100%; max-width:1000px; aspect-ratio:2/1; overflow:hidden;">
+<div style="display:flex; gap:16px; flex-wrap:wrap; align-items:flex-start;">
+  <div style="flex:1 1 480px; max-width:50%;">
     <img src="../assets/images/rlmodel.png" alt="model"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; display:block;" />
+         style="width:100%; height:auto; display:block;" />
   </div>
 
-  <div style="width:100%; max-width:1000px; aspect-ratio:2/1; overflow:hidden; background:#fff;">
+  <div style="flex:1 1 480px; max-width:50%;">
     <img src="../assets/images/rewardExp.png" alt="exp"
-         style="width:100%; height:100%; object-fit:contain; display:block;" />
+         style="width:100%; height:auto; display:block;" />
   </div>
-
 </div>
 
 
