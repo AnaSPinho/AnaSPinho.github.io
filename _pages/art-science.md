@@ -22,20 +22,26 @@ The [HerArt workshop series](https://marcelaperrusquia.com/pages/workshops-herar
 [repository](https://osf.io/b9d6t/files/osfstorage)
 
 <div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
- <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/paletet.jpg" alt="paletet"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
-  </div>
-  
- <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/frida.jpg" alt="frida"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
-  </div>
+  <a href="../assets/images/paletet.jpg" target="_blank" rel="noopener">
+    <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
+      <img src="../assets/images/paletet.jpg" alt="paletet"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
 
- <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/room.jpg" alt="room"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
-  </div>
+  <a href="../assets/images/frida.jpg" target="_blank" rel="noopener">
+    <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
+      <img src="../assets/images/frida.jpg" alt="frida"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
+
+  <a href="../assets/images/room.jpg" target="_blank" rel="noopener">
+    <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
+      <img src="../assets/images/room.jpg" alt="room"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
 </div>
 
 #### Breaking boundaries (2023-2024) 
