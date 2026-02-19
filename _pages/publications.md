@@ -8,7 +8,7 @@ title: "Publications"
 
 **da Silva Pinho, A.**, Molleman, L., van den Bos, W. (2026). Learning about the world: the influence of online social information on adolescents’ opinions.
 
-Céspedes Izquierdo, V., **da Silva Pinho, A.**, & van den Bos, W. (2025). Formalising the relationship between rewards and mood in social media. [[preregistration](https://osf.io/k2gv3/)]
+Céspedes Izquierdo, V., **da Silva Pinho, A.**, Larsen, H., & van den Bos, W. (2025). Formalising the relationship between rewards and mood in social media. [[preregistration](https://osf.io/k2gv3/)]
 
 Rathje, S., Asimovic, N., Ventura, T., Mughal, S., Karsting, H., Robertson, C. E., Barrie, C., The Global Social Media Experiment Team*, Tucker, J. A., & Van Bavel, J. J. (2025). Testing the causal impact of social media reduction around the globe. _Nature_ (Registered Report, Stage 1 In-Principle Acceptance). * **_I am leading the team of scholars in the Netherlands_**
 
