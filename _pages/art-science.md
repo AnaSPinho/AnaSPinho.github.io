@@ -65,25 +65,33 @@ Exhibition curator: [Ellen Klijzing](https://www.ellenklijzing.nl/)
 <br>
 
 <div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
- <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/dream.jpeg" alt="dream"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
-  </div>
+  <a href="../assets/images/dream.jpeg" target="_blank" rel="noopener" style="flex:0 0 auto;">
+    <div style="width:200px; height:200px; overflow:hidden;">
+      <img src="../assets/images/dream.jpeg" alt="dream"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
 
- <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/military.jpeg" alt="military"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
-  </div>
+  <a href="../assets/images/military.jpeg" target="_blank" rel="noopener" style="flex:0 0 auto;">
+    <div style="width:200px; height:200px; overflow:hidden;">
+      <img src="../assets/images/military.jpeg" alt="military"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
 
-  <div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/memory.jpeg" alt="memory"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
-  </div>
-  
-<div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/clown.jpeg" alt="clown"
-         style="width:100%; height:100%; object-fit:cover; object-position:20% 20%;" />
-  </div>
+  <a href="../assets/images/memory.jpeg" target="_blank" rel="noopener" style="flex:0 0 auto;">
+    <div style="width:200px; height:200px; overflow:hidden;">
+      <img src="../assets/images/memory.jpeg" alt="memory"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
+
+  <a href="../assets/images/clown.jpeg" target="_blank" rel="noopener" style="flex:0 0 auto;">
+    <div style="width:200px; height:200px; overflow:hidden;">
+      <img src="../assets/images/clown.jpeg" alt="clown"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
 </div>
 
 #### Life from a different perspective (2023) 
@@ -107,17 +115,22 @@ Project developed in collabroation with visual artist and art educator [Marcela 
 - _Depiction of the installation_
 
 <div style="display:flex; flex-wrap:nowrap; gap:2em; overflow-x:auto;">
-<div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-    <img src="../assets/images/part1.png" alt="part 1"
-         style="width:150%; height:150%; object-fit:cover; object-position:20% 20%;" />
-  </div>
+  <a href="../assets/images/part1.png" target="_blank" rel="noopener"
+     style="flex:0 0 auto; text-decoration:none;">
+    <div style="width:320px; height:320px; overflow:hidden; border-radius:10px;">
+      <img src="../assets/images/part1.png" alt="part 1"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
 
-<div style="width:200px; height:200px; overflow:hidden; flex:0 0 auto;">
-  <img src="../assets/images/part2.png" alt="part 2"
-         style="width:150%; height:150%; object-fit:cover; object-position:20% 20%;" />
-  </div>
+  <a href="../assets/images/part2.png" target="_blank" rel="noopener"
+     style="flex:0 0 auto; text-decoration:none;">
+    <div style="width:320px; height:320px; overflow:hidden; border-radius:10px;">
+      <img src="../assets/images/part2.png" alt="part 2"
+           style="width:100%; height:100%; object-fit:cover; object-position:20% 20%; cursor:zoom-in;" />
+    </div>
+  </a>
 </div>
-
 
 #### 3DISCO: 3D imaging of solvent-cleared organs (2019) 
 ----
