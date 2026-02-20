@@ -2,3 +2,17 @@
 permalink: /cv/
 title: "CV"
 ---
+
+<h1 style="text-align:center;">CV</h1>
+
+<div style="max-width: 1100px; margin: 0 auto;">
+  <iframe
+    src="/assets/cv.pdf"
+    style="width:100%; height:90vh; border:0; border-radius:12px;"
+    loading="lazy">
+  </iframe>
+
+  <p style="text-align:center; margin-top:12px;">
+    <a href="/assets/cv_adsp.pdf" target="_blank" rel="noopener">Open / Download PDF</a>
+  </p>
+</div>
