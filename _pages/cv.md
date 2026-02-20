@@ -3,11 +3,14 @@ permalink: /cv/
 title: "CV"
 ---
 
-<iframe
-  src="{{ site.baseurl }}/assets/cv_adsp.pdf"
-  style="width:100%; height:90vh; border:0; border-radius:12px;"
-></iframe>
+<div style="max-width: 1100px; margin: 0 auto;">
+  <iframe
+    src="/assets/images/cv_adsp.pdf"
+    style="width:100%; height:90vh; border:0; border-radius:12px;"
+    loading="lazy">
+  </iframe>
 
-<p style="text-align:center; margin-top:12px;">
-  <a href="{{ site.baseurl }}/assets/cv.pdf" target="_blank" rel="noopener">Open / Download PDF</a>
-</p>
+  <p style="text-align:center; margin-top:12px;">
+    <a href="/assets/images/cv_adsp.pdf" target="_blank" rel="noopener">Open / Download PDF</a>
+  </p>
+</div>
