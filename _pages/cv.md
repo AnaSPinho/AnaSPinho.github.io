@@ -7,7 +7,7 @@ title: "CV"
 
 <div style="max-width: 1100px; margin: 0 auto;">
   <iframe
-    src="/assets/cv.pdf"
+    src="/assets/cv_adsp.pdf"
     style="width:100%; height:90vh; border:0; border-radius:12px;"
     loading="lazy">
   </iframe>
