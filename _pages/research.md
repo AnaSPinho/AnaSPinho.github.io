@@ -47,7 +47,7 @@ Today’s youth increasingly turn to social media not only for entertainment but
 #### Not straightforward 
 -----
 
-- **_The benefits and harms of social media use among LGBTQIA+ youth_**
+- **_The benefits and harms of social media use among individuals who identify as LGBTQIA+_**
 
 Digital platforms sit at the heart of many young people’s social lives: shaping peer connection, identity exploration, and how they learn about the world. 
 For LGBTQIA+ youth in particular, online spaces can offer community, information, and affirmation. At the same time, they can intensify minority stress through discrimination, harassment, and exposure to harmful content. Most theories of adolescent social media use emphasize normative developmental tasks such as autonomy seeking, peer validation, and identity exploration, but they often overlook the distinct realities and experiences of queer youth. This raises a central question: do digital environments function as protective spaces that support identity development, belonging, and well-being and/or do they amplify minority stress among queer youth? This project develops (1) a conceptual framework and testable model to explain how social media shapes identity-related learning and development among LGBTQIA+ youth, and how these processes relate to mental health; and (2) a mixed-methods design that integrates computational approaches, digital trace data, survey data, and qualitative accounts. We examine how different patterns and contexts of online engagement relate to identity exploration, belonging and mental health outcomes. This research aims to inform evidence-based interventions, platform design, and policy to ensure that digital environments foster empowerment and inclusion for LGBTQIA+ youth.
