@@ -6,7 +6,7 @@ title: "Publications"
 #### Working papers / Preprints / Submissions
 -----
 
-**da Silva Pinho, A.**, Molleman, L., van den Bos, W. (2026). Learning about the world: the influence of online social information on adolescents’ opinions.
+**da Silva Pinho, A.**, Molleman, L., van den Bos, W. (2026). Learning about the world: the influence of online social information on youths’ opinions.
 
 Céspedes Izquierdo, V., **da Silva Pinho, A.**, Larsen, H., & van den Bos, W. (2025). Formalising the relationship between rewards and mood in social media. [[preregistration](https://osf.io/k2gv3/)]
 
