@@ -20,9 +20,9 @@ Doell, K. C., Lengersdorff, L., Rhoads, S. A., Todorova, B., Nitschke, J. P., Dr
 #### Peer-reviewed papers
 -----
 
-**da Silva Pinho, A.**, Molleman, L., Braams, B.R., & van den Bos, W. (2024). Pathways from Norms to Intentions: a Developmental Perspective. _Collabra: Psychology_, 11 (1): 150354. [[preregistration study 1](https://osf.io/utca2/)] [[preregistration study 2](https://osf.io/6tkdf/)] [[paper](https://doi.org/10.1525/collabra.150354)] [[data & code](https://osf.io/bjfx6/)]
+**da Silva Pinho, A.**, Molleman, L., Braams, B.R., & van den Bos, W. (2025). Pathways from Norms to Intentions: a Developmental Perspective. _Collabra: Psychology_, 11 (1): 150354. [[preregistration study 1](https://osf.io/utca2/)] [[preregistration study 2](https://osf.io/6tkdf/)] [[paper](https://doi.org/10.1525/collabra.150354)] [[data & code](https://osf.io/bjfx6/)]
 
-**da Silva Pinho, A.**, Slagter, S., Gradassi, A., Molleman, L., Braams, B.R., & van den Bos, W. (2024).  Teacher Knows Best? The Social Influence of Teachers and Peers in High School. _Journal of Research on Adolescence_, 35 (3), e70063. [[preregistration](https://osf.io/h3ny9/?view_only=c35b74a29125413e949cede4906f45bb)] [[ paper](https://doi.org/10.1111/jora.70063)] [[data & code](https://osf.io/4yevs/?view_only=f2884a6fe0f449b18bee217a5c130003)]
+**da Silva Pinho, A.**, Slagter, S., Gradassi, A., Molleman, L., Braams, B.R., & van den Bos, W. (2025).  Teacher Knows Best? The Social Influence of Teachers and Peers in High School. _Journal of Research on Adolescence_, 35 (3), e70063. [[preregistration](https://osf.io/h3ny9/?view_only=c35b74a29125413e949cede4906f45bb)] [[ paper](https://doi.org/10.1111/jora.70063)] [[data & code](https://osf.io/4yevs/?view_only=f2884a6fe0f449b18bee217a5c130003)]
 
 **da Silva Pinho, A.**, Céspedes Izquierdo, V., Lindström, B., & van den Bos, W. (2024). Youths’ sensitivity to social media feedback: A computational account. _Science Advances_, 10(43). [[preregistration study 1](https://osf.io/mt2nv/overview?view_only=6e232108b6754961b783a9e98c042f3a)] [[preregistration study 2](https://osf.io/q2htd/overview?view_only=ce5582b6d9414f1db552bb83c8d69b66)] [[paper](https://doi.org/10.1126/sciadv.adp8775)] [[data & code](https://osf.io/m7hw6/)]
 
