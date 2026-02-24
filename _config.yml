@@ -16,6 +16,8 @@
 
 title: Ana da Silva Pinho
 title_separator: "-"
+url: "https://anaspinho.github.io"
+baseurl: ""
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
