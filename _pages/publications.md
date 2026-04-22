@@ -12,13 +12,12 @@ Céspedes Izquierdo, V., **da Silva Pinho, A.**, Larsen, H., & van den Bos, W. (
 
 Rathje, S., Asimovic, N., Ventura, T., Mughal, S., Karsting, H., Robertson, C. E., Barrie, C., The Global Social Media Experiment Team*, Tucker, J. A., & Van Bavel, J. J. (2025). Testing the causal impact of social media reduction around the globe. _Nature_ (Registered Report, Stage 1 In-Principle Acceptance). * **_I am leading the team of scholars in the Netherlands_**
 
-Slagter, S., **da Silva Pinho, A.**, van Duijvenvoorde, A., & van den Bos, W. (under review, 2025). The influence of friends and popular peers on adolescents’ risky decisions in private and public contexts. 
-
 Doell, K. C., Lengersdorff, L., Rhoads, S. A., Todorova, B., Nitschke, J. P., Druckman, J., Vlascenau, M., Many Labs Climate Consortium*, Lamm, C. & Van Bavel, J. J. (2025, preprint). When Predicting Climate-Relevant Intervention Effectiveness, Academics Outperform the Public, but Not a Simple Heuristic. [[Preprint](https://doi.org/10.31234/osf.io/fzv6g_v1)] * **_I am part of the consortium contributing behavioral experiment data_**
-
 
 #### Peer-reviewed papers
 -----
+
+Slagter, S., **da Silva Pinho, A.**, van Duijvenvoorde, A., & van den Bos, W. (2026). An experimental study on the influence of friends and popular peers on adolescents’ risky decisions in a private and public context. _Journal of Youth and Adolescence_. [[paper](https://doi.org/10.1007/s10964-026-02349-2)]
 
 **da Silva Pinho, A.**, Molleman, L., Braams, B.R., & van den Bos, W. (2025). Pathways from Norms to Intentions: a Developmental Perspective. _Collabra: Psychology_, 11 (1): 150354. [[preregistration study 1](https://osf.io/utca2/)] [[preregistration study 2](https://osf.io/6tkdf/)] [[paper](https://doi.org/10.1525/collabra.150354)] [[data & code](https://osf.io/bjfx6/)]
 
