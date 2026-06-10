@@ -31,6 +31,10 @@ de Witte, M., **da Silva Pinho, A.**, Stams, G.-J., Moonen, X., Bos, A. E. R., &
 
 **da Silva Pinho, A.**, Molleman, L., Braams, B. R., & van den Bos, W. (2021). Majority and popularity effects on norm formation in adolescence. _Scientific Reports_, 11(1), Article 12884. [[preregistration](https://osf.io/cx2u6)] [[paper](https://doi.org/10.1038/s41598-021-92482-8)] [[data & code](https://github.com/AnaSPinho/norm_formation_in_adolescence)]
 
+#### Research report
+-----
+**da Silva Pinho, A.**, & van den Bos, W. (2026). Not straightforward: The harms and benefits of social media experiences among individuals identifying as LGBTQIA+. _Research report_. [[report](https://osf.io/dvfcp/files/5zrwx)]
+
 #### PhD thesis
 -----
 
