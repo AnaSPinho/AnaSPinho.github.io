@@ -6,6 +6,8 @@ title: "Publications"
 #### Working papers / Preprints / Submissions
 -----
 
+Aijala, M., Céspedes, V., **da Silva Pinho, A.**, Riedel, F., van den Bos, W., & Grüning, D. J. (2026, preprint). Wait a sec: How reflection and friction impact social media use, mood, and well-being. [[Preprint](https://doi.org/10.31234/osf.io/fzv6g_v1)] 
+
 **da Silva Pinho, A.**, Molleman, L., van den Bos, W. (2026). Learning about the world: the influence of online social information on youths’ opinions.
 
 Céspedes Izquierdo, V., **da Silva Pinho, A.**, Larsen, H., & van den Bos, W. (2025). Formalising the relationship between rewards and mood in social media. [[preregistration](https://osf.io/k2gv3/)]
